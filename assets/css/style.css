@@ -226,7 +226,6 @@ button:focus {
     /* text-shadow: 3px 6px 3px rgba(0, 0, 0, 0.5); */
     background-color: rgba(219, 228, 228, 0.32);
     border-radius: 32px;
-    font-size-adjust: 2;
     align-items: center;
 }
 
